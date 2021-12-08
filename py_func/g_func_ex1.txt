@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+def func(x, y, z):
+    z = 20
+    return (x + y + z)
+
